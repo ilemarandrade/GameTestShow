@@ -1,0 +1,164 @@
+[
+  {
+    "title": "Trivia de Futbol",
+    "id": 154,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQusZVK2zGXX1vGhuA_ek9GvAYLMp7P1uy6TA&usqp=CAU",
+    "questions": [
+      {
+        "text": "¿Quién ganó el mundial de fútbol de 2010?",
+        "image": "https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg",
+        "lifetimeSeconds": 10,
+        "options": [
+          { "text": "España", "correct": true },
+          { "text": "Brasil", "correct": false },
+          { "text": "Alemania", "correct": false }
+        ]
+      },
+      {
+        "text": "¿En qué club italiano jugó Diego Maradona? ",
+        "image": "https://filedn.com/ltOdFv1aqz1YIFhf4gTY8D7/ingus-info/BLOGS/Photography-stocks3/stock-photography-slider.jpg",
+        "lifetimeSeconds": 8,
+        "options": [
+          { "text": "Juventus", "correct": false },
+          { "text": "Udinese", "correct": false },
+          { "text": "Napoli", "correct": true }
+        ]
+      },
+      {
+        "text": "¿En qué año debutó Pep Guardiola como entrenador del FC Barcelona?",
+        "image": "https://filedn.com/ltOdFv1aqz1YIFhf4gTY8D7/ingus-info/BLOGS/Photography-stocks3/stock-photography-slider.jpg",
+        "lifetimeSeconds": 12,
+        "options": [
+          { "text": "2007", "correct": false },
+          { "text": "2008", "correct": true },
+          { "text": "2006", "correct": false }
+        ]
+      },
+      {
+        "text": "¿En qué país ganó Alemania su primer Mundial?",
+        "image": "https://filedn.com/ltOdFv1aqz1YIFhf4gTY8D7/ingus-info/BLOGS/Photography-stocks3/stock-photography-slider.jpg",
+        "lifetimeSeconds": 8,
+        "options": [
+          { "text": "Inglaterra", "correct": false },
+          { "text": "Suiza", "correct": true },
+          { "text": "Mexico", "correct": false }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia de Baloncesto",
+    "id": 298,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUCbS7gLsTST377zHB6iQGXC0zaEy4vkKgpw&usqp=CAU",
+    "questions": [
+      {
+        "text": "¿Con qué equipo jugó Michael Jordan casi toda su carrera en la NBA?",
+        "image": "https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg",
+        "lifetimeSeconds": 10,
+        "options": [
+          { "text": "Clippers de los Angeles", "correct": false },
+          { "text": "Bulls de Chicago", "correct": true },
+          { "text": "Boston Celtic", "correct": false }
+        ]
+      },
+      {
+        "text": "¿En qué equipo juega Damian Lillard en la posición de armador?",
+        "image": "https://filedn.com/ltOdFv1aqz1YIFhf4gTY8D7/ingus-info/BLOGS/Photography-stocks3/stock-photography-slider.jpg",
+        "lifetimeSeconds": 15,
+        "options": [
+          { "text": "Clippers de Los Ángeles", "correct": false },
+          { "text": "Jazz de Utah", "correct": false },
+          { "text": "Trail Blazers de Portland", "correct": true }
+        ]
+      },
+      {
+        "text": "Kawhi Leonard se convirtió en jugador del Juego de Estrellas. ¿Qué equipo de la NBA lideraba en esa ocasion?",
+        "image": "https://filedn.com/ltOdFv1aqz1YIFhf4gTY8D7/ingus-info/BLOGS/Photography-stocks3/stock-photography-slider.jpg",
+        "lifetimeSeconds": 8,
+        "options": [
+          { "text": "Clippers de Los Ángeles", "correct": false },
+          { "text": "Spurs de San Antonio", "correct": true },
+          { "text": "Toronto Raptors", "correct": false }
+        ]
+      },
+      {
+        "text": "Stephen Curry ¿Para qué equipo juega?",
+        "image": "https://filedn.com/ltOdFv1aqz1YIFhf4gTY8D7/ingus-info/BLOGS/Photography-stocks3/stock-photography-slider.jpg",
+        "lifetimeSeconds": 5,
+        "options": [
+          { "text": "Clippers de Los Ángeles", "correct": false },
+          { "text": "Spurs de San Antonio", "correct": false },
+          { "text": "Warriors de Golden State", "correct": true }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia de Geografia",
+    "id": 2979,
+    "image": "https://www.ecured.cu/images/thumb/e/e3/Geograf%C3%ADa_General.jpg/260px-Geograf%C3%ADa_General.jpg",
+    "questions": [
+      {
+        "text": "¿Qué es Zelandia?",
+        "image": "https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg",
+        "lifetimeSeconds": 10,
+        "options": [
+          { "text": "Una ciudad islandesa", "correct": false },
+          { "text": "Un parque temático", "correct": false },
+          { "text": "Un país del hemisferio norte", "correct": false },
+          { "text": "Un continente", "correct": true }
+        ]
+      },
+      {
+        "text": "¿Cuál es el país de los 1.000 lagos?",
+        "image": "https://filedn.com/ltOdFv1aqz1YIFhf4gTY8D7/ingus-info/BLOGS/Photography-stocks3/stock-photography-slider.jpg",
+        "lifetimeSeconds": 15,
+        "options": [
+          { "text": "Estados Unidos", "correct": false },
+          { "text": "Finlandia", "correct": true },
+          { "text": "Canadá", "correct": false }
+        ]
+      },
+      {
+        "text": "El río más largo de Europa es...",
+        "image": "https://filedn.com/ltOdFv1aqz1YIFhf4gTY8D7/ingus-info/BLOGS/Photography-stocks3/stock-photography-slider.jpg",
+        "lifetimeSeconds": 9,
+        "options": [
+          { "text": "El Tajo", "correct": false },
+          { "text": "El Volga", "correct": true },
+          { "text": "El Támesis", "correct": false }
+        ]
+      },
+      {
+        "text": "¿Dónde están las ruinas de Esparta?",
+        "image": "https://filedn.com/ltOdFv1aqz1YIFhf4gTY8D7/ingus-info/BLOGS/Photography-stocks3/stock-photography-slider.jpg",
+        "lifetimeSeconds": 6,
+        "options": [
+          { "text": "En Grecia", "correct": true },
+          { "text": "En Turquía", "correct": false },
+          { "text": "En Italia", "correct": false }
+        ]
+      },
+      {
+        "text": "¿Cuál es la ciudad más antigua del mundo?",
+        "image": "https://filedn.com/ltOdFv1aqz1YIFhf4gTY8D7/ingus-info/BLOGS/Photography-stocks3/stock-photography-slider.jpg",
+        "lifetimeSeconds": 5,
+        "options": [
+          { "text": "Biblos", "correct": false },
+          { "text": "Jericó", "correct": true },
+          { "text": "Ur", "correct": false }
+        ]
+      },
+      {
+        "text": "¿Cómo se llama la línea imaginaria que pasa por el centro del Polo Norte y del Polo Sur?",
+        "image": "https://filedn.com/ltOdFv1aqz1YIFhf4gTY8D7/ingus-info/BLOGS/Photography-stocks3/stock-photography-slider.jpg",
+        "lifetimeSeconds": 5,
+        "options": [
+          { "text": "Eje central", "correct": false },
+          { "text": "Meridiano global primario", "correct": false },
+          { "text": "Primer meridiano", "correct": true }
+        ]
+      }
+    ]
+  }
+]
