@@ -17,7 +17,7 @@ const customTheme = {
       lineHeight: "3.563rem",
       [theme.breakpoints.down("sm")]: {
         fontSize: theme.typography.pxToRem(32),
-        lineHeight: theme.typography.pxToRem(21.6),
+        lineHeight: theme.typography.pxToRem(32),
       },
     },
     h2: {
