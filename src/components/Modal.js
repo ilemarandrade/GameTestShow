@@ -23,8 +23,6 @@ const Modal = ({ open, handleClose, children }) => {
     <ModalMui
       open={open}
       onClose={handleClose}
-      aria-labelledby="simple-modal-title"
-      aria-describedby="simple-modal-description"
       className="perfectCentered"
     >
       <Grid xs={11} sm={6} md={4} direction="column" className={clsx('perfectCentered', classes.paper)}>
